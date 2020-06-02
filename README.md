@@ -5,7 +5,6 @@ Dataset used: https://www.kaggle.com/dataturks/vehicle-number-plate-detection
 
 ## File description:
 
-
 - Data-Images.zip: Contains the images of the cars, number plates and annotations in `.txt` files (YOLO format)
 - Data_prep_and_visualization.ipynb: A notebook demonstrating the process of preparing the dataset (`.csv` files) for creating TFRecords (otherwise TensorFlow Object Detection API won't work)
 - Indian_Number_plates.json: Configuration file which contains image download paths and annotations
