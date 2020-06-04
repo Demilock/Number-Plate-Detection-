@@ -16,6 +16,7 @@ Dataset used: https://www.kaggle.com/dataturks/vehicle-number-plate-detection
 
 ## Demo inference (as collected from TensorBoard):
 
+
 ![](https://github.com/sayakpaul/Vehicle-Number-Plate-Detection/blob/master/demo_images/WhatsApp%20Image%202019-08-24%20at%2016.46.34.jpeg?raw=true)
 
 ![](https://github.com/sayakpaul/Vehicle-Number-Plate-Detection/blob/master/demo_images/WhatsApp%20Image%202019-08-24%20at%2016.49.13.jpeg?raw=true)
